@@ -1,5 +1,6 @@
 # Site Settings
-baseurl: "/Grape-Academic-Theme"
+url: "https://lim9gu.github.io/."
+baseurl: ""
 
 # Features Setting
 # Turn subpages on or off
@@ -11,7 +12,7 @@ blog: True
 lang: en
 
 # Search engine optimization settings
-title: Grape Academic Theme
+title: Gu Lim's webpage (test)
 tagline: A jekyll theme for academic portfolios
 description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
 author: Christoph Jabs (chrjabs)
