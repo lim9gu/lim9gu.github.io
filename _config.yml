@@ -15,16 +15,16 @@ lang: en
 title: Gu Lim's webpage (test)
 tagline: A jekyll theme for academic portfolios
 description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
-author: Christoph Jabs (chrjabs)
-twitter:
-  username: chrjabs
-  card: A jekyll theme for academic portfolios
+author: Gu Lim
+#twitter:
+#  username: chrjabs
+#  card: A jekyll theme for academic portfolios
 logo: /assets/img/smile.png
 social:
   name: Gu Lim
   links:
     #- https://twitter.com/chrjabs
-    #- https://github.com/chrjabs
+    - https://github.com/lim9gu
 locale: en_GB
 
 # Page Settings
