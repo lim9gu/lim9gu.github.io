@@ -16,7 +16,7 @@ github           : "lim9gu"
 # Turn subpages on or off
 publications: True
 presentations: True
-blog: True
+CV: True
 
 # Language of the website
 lang: en
