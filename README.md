@@ -28,3 +28,8 @@ Portfolio page giving an overview of your research.
 
 This page is based on [Grape Theme](https://github.com/naye0ng/Grape-Theme).
 The theme is available as open source under the terms of the [MIT Licence](https://opensource.org/licenses/MIT). It can still include a blog, but that is optional.
+
+## Acknowledgement
+
+I appreciate the developer of Grape Theme for creating a highly convenient and user-friendly theme.
+If there are any issues related to this theme or page, please do not hesitate to let me know.
