@@ -6,6 +6,12 @@ repository  : "lim9gu/lim9gu.github.io"
 future: True
 published: True
 timezone: Asia/Seoul
+
+
+staticman:
+  branch : "main"
+github           : "lim9gu"
+
 # Features Setting
 # Turn subpages on or off
 publications: True
@@ -18,7 +24,7 @@ lang: en
 # Search engine optimization settings
 title: Gu Lim's webpage (test)
 tagline: A jekyll theme for academic portfolios
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
+description: An astronomer (Observation)
 author: Gu Lim
 #twitter:
 #  username: chrjabs
