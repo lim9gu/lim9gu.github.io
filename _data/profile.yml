@@ -1,11 +1,11 @@
 image: assets/img/smile.png
 username: Gu Lim
-description: I am an astronomer. This page is under construction.
+description: I am an astronomer. (Ph. D.) This page is under construction.
 webpage: https://lim9gu.github.io/
 experience: # Remove for hiding the experience section
-  - start: 2017-05-03
-    end: 2018-05-06
-    experience : company name, title
+  - start: 2022-09-01
+    end: Current position
+    experience : Department of Earth Science, Pusan National University (Korea)
 interests: # Remove for hiding the interests section
   - Type Ia supernovae progenitor observation
   - Automated observaion \& reduction pipeline
