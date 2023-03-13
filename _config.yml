@@ -23,8 +23,8 @@ logo: /assets/img/smile.png
 social:
   name: Christoph Jabs
   links:
-    - https://twitter.com/chrjabs
-    - https://github.com/chrjabs
+    #- https://twitter.com/chrjabs
+    #- https://github.com/chrjabs
 locale: en_GB
 
 # Page Settings
