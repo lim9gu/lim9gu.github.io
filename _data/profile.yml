@@ -17,12 +17,12 @@ skills: # Remove for hiding the skills section
 social:
   email:  lim9gu@gmail.com # Full email address, e.g. "sample@google.com"
   orcid: 
-  scholar: 
-  publons: 
+  #scholar: 
+  #publons: 
   research_gate: 
-  dblp:  # Full URL
-  semantic_scholar:  # Full URL
-  linkedin:  # Full URL 
+  #dblp:  # Full URL
+  #semantic_scholar:  # Full URL
+  #linkedin:  # Full URL 
   github: lim9gu
   gitlab: 
   #bitbucket: chrjabs
