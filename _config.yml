@@ -1,6 +1,7 @@
 # Site Settings
 url: "https://lim9gu.github.io/"
 baseurl: ""
+repository  : "lim9gu/lim9gu.github.io"
 
 future: True
 published: True
