@@ -9,6 +9,7 @@ experience: # Remove for hiding the experience section
 interests: # Remove for hiding the interests section
   - Type Ia supernovae progenitor observation
   - Automated observaion \& reduction pipeline
+  - Education in astronomy
 skills: # Remove for hiding the skills section
   - skill: Python
     value: 80  # Percent value
