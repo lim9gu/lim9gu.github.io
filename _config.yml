@@ -10,7 +10,7 @@ timezone: Asia/Seoul
 
 staticman:
   branch : "main"
-github           : "lim9gu"
+github   : "lim9gu"
 
 # Features Setting
 # Turn subpages on or off
@@ -22,7 +22,7 @@ CV: True
 lang: en
 
 # Search engine optimization settings
-title: Gu Lim's webpage (test)
+title: Gu Lim's web page (TEST!)
 tagline: A jekyll theme for academic portfolios
 description: An astronomer (Observation)
 author: Gu Lim
