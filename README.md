@@ -10,7 +10,9 @@
 #![home](https://chrjabs.github.io/Grape-Academic-Theme/assets/img/portfolio.png)
 -->
 
-This is my webpage.
+This is my webpage. 
+I am a newbie in github. Studying now
+
 
 <!--
 [Demo](https://chrjabs.github.io/Grape-Academic-Theme)
