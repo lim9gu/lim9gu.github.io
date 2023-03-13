@@ -2,6 +2,9 @@
 url: "https://lim9gu.github.io/."
 baseurl: ""
 
+future: True
+published: True
+
 # Features Setting
 # Turn subpages on or off
 publications: True
